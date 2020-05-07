@@ -27,7 +27,7 @@ Download the model weights (*.h5) files from the following path:<br>
 https://bit.ly/3dkxza2 <br>
 Move the downloaded files to hexaface/django/static folder.<br><br>
 
-Open command line and go to the HexaFace/django/ folder.<br>
+Open command line and go to the hexaface/django/ folder.<br>
 Run the following command to start the server:<br>
 python manage.py runserver<br><br>
 
