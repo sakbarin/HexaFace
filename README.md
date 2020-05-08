@@ -6,7 +6,7 @@ This is the project for CMPT733 - Programming for Big Data II.
 
 - Latest version of Anaconda (https://www.anaconda.com/)
 
-- TensorFlow 1.15 [conda create --name tf1 tensorflow=1.15]
+- TensorFlow 1.15 [conda create --name hexaface tensorflow=1.15]
 
 - Keras [conda install keras]
 
